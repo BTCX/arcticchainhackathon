@@ -1,0 +1,7 @@
+#list of parties
+"lucia"
+"tomtenisse"
+"pepparkaka"
+"lussekatt"
+"stjärngosse"
+"tärna"
